@@ -6,6 +6,7 @@ It has been tested on:
 
 * 6360 Cable (v6.04)
 * 6490 Cable (v7.02)
+* 9561 Cable (v7.13)
 * 6660 Cable (v7.14)
 * 7270
 * 7330SL (v6.54)
